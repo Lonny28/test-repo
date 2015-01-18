@@ -6,9 +6,9 @@ No hash - heading
 ## two hash heading
 ### three hash heading
 
-*First
-*Second
-*Third
+* First
+* Second
+* Third
 
 
 
