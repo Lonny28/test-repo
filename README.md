@@ -6,7 +6,7 @@ No hash - heading
 ## two hash heading
 ### three hash heading
 
-* First
+* First bullet point -- gotta hit a space after the astrisk
 * Second
 * Third
 
